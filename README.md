@@ -1,4 +1,7 @@
 # vue-life
+```
+一个空的Vue-cli
+```
 
 ## Project setup
 ```
